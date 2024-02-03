@@ -18,7 +18,7 @@ public class CusotmerController {
 	@Autowired
 	CustomerService customerService;
 	
-	
+	// Adding comments to understand github
 	
 	@PostMapping("/customer")
 	public Customer createCustomer(@RequestBody Customer customer) {
