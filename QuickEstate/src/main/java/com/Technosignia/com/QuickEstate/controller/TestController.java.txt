@@ -1,4 +1,10 @@
+
+class Test{
+psvm(String args[]){
+SOP("Hello");
+}
 class Demo{
 psvm(String args[]){
 SOP("code changes byUmesh");
+
 }
